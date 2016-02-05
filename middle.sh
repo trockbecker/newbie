@@ -5,4 +5,5 @@ head -10 "$1" | tail -5
 #variables to enter filename, head and tail lines at the command line
 #head "$2" "$1" | tail "$3"
 # Hi There :)
+#back at ya! TGIF
 
